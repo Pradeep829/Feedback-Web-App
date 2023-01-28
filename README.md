@@ -12,7 +12,7 @@ Forms
 Context API
 HTTP Requests
 
-The Feedback App project with ReactJS is an application that allows users to provide feedback to an organization or company. It is designed to provide a platform where customers can easily give their opinion and suggestions on the services they have used. The app is designed to be highly interactive, with a clean and user-friendly interface. It also uses the latest technologies such as React JS, HTMl , Css and Javascript to offer a great user experience.
+The Feedback App project with ReactJS is an application that allows users to provide feedback to an organization or company. It is designed to provide a platform where customers can easily give their opinion and suggestions on the services they have used. The app is designed to be highly interactive, with a clean and user-friendly interface. It also uses the latest technologies such as React JS, HTMl , Css to offer a great user experience.
 
 The Feedback App project with ReactJS provides users with a simple and straightforward way to provide their feedback. It allows users to rate their experience and provide their opinion on the services they have used. This feedback can then be used by the organization or company to improve their services and products.
 
